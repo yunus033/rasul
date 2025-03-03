@@ -1,0 +1,100 @@
+h1{
+   text-align: center;
+   background-color: aqua;
+   border-radius: 20px;
+   border: 3px solid red;
+}
+.r1{
+   color: red;
+   
+}
+.gr{
+   color: green;
+
+}
+.dd{
+   color: green;
+   background-color: yellow;
+   text-align: center;
+}
+.rr{
+
+   width: 700px;
+
+}
+.cc{
+   width: 700px;
+
+
+}
+.bb{
+   color: green;
+   text-align: center;
+   background-color: yellow;
+}
+.nn{
+   background-color: black;
+   
+}
+.dg{
+   background-color: black; 
+   border-radius: 10px;
+}
+.xx{
+    color: green;
+
+}
+input{
+     width: 100%;
+
+}
+.ff{
+   color: green;
+
+}
+.vv{
+   background-color: blue;
+
+}
+.mm{
+   color: green;
+   background-color: yellow;
+   text-align: center;
+}
+th{
+
+    border: 1px solid black;
+    padding: 5px;
+}
+table{
+     width: 100%;
+     border-collapse: collapse;
+    
+}
+.l1{
+   background-color: green;
+   color: aliceblue;
+
+}
+.x5{
+    background-color: blue;
+    color: aliceblue;
+}
+.c3{
+   background-color: red;
+   color: aliceblue;
+}
+ .v5{ 
+    background-color: black;
+    color: aliceblue;
+ }  
+ .b7{
+    background-color: red;
+    color: aliceblue;
+ }  
+.n8{
+   background-color: black;
+   color: aliceblue;
+}
+
+
